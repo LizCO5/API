@@ -1,6 +1,5 @@
 # API de Biblioteca
-**Liz Eliandry Contreras Nuñez**
-**22-MISN-2-052**
+
 ### Endpoints
 
 #### Página Principal
